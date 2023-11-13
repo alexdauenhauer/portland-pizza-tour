@@ -19,3 +19,8 @@ Rankings from a pizza tour my wife and I did during quarantine. Each place was r
 ## Scores
 - [Top scores for vegan options](scores/vegan.csv)
 - [Top scores for non-vegan options](scores/non-vegan.csv)
+
+## Comments
+**Honorable mention**: Pizza Creature - we tried this place after we had stopped scoring, but this place is very very good and is close enough to us that it has become our go to pizza place. It likely would have landed in Alex's top 5, but definitely would have been top 10.
+
+**Didn't hold up**: Fino Bistro - this place is also nearby where we live and the first time we ate here we both found it to be very good. We have since eaten there approximately 5-6 times and it has gotten progressively worse with every visit in almost every category. This is not reflected in the scoring, but do keep in mind that the scores are always based on first impressions and a single instance of eating there
