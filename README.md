@@ -17,5 +17,5 @@ Rankings from a pizza tour my wife and I did during quarantine. Each place was r
 - **Leftovers:** (If applicable) how good were the reheated leftovers the next day?
 
 ## Scores
-- [Top scores for vegan options](alex.csv)
-- [Top scores for non-vegan options](alice.csv)
+- [Top scores for vegan options](scores/vegan.csv)
+- [Top scores for non-vegan options](scores/non-vegan.csv)
