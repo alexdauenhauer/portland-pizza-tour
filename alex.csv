@@ -1,26 +1,26 @@
-Name,Vendor,Variety,Taste,Presentation,Crust,Sauce,Toppings,Creativity,Message,Availability,sides,leftovers,total,Notes,final_score
-Alex,Pizzeria Otto,supremo vegan,10.0,10.0,10.0,10.0,10.0,9.0,9.0,9.0,,,9.625,the vegan cashew ricotta is the best I've ever had. the sauce is amazing. this pizza is incredible,9.142857142857142
-Alex,Pizza Doughnais (sourdough),tomato + vegan pep,10.0,8.0,10.0,10.0,9.0,9.0,8.0,9.0,,9.0,9.111111111,,8.5
-Alex,Red Sauce Pizza,it's me nummy,10.0,8.0,9.0,9.0,10.0,8.0,9.0,9.0,,,9,"this pizza really hit the spot. a classic combo of pineapple, vegan pepperoni, and jalapeno. basically what I would put on a pizza if I was making it from scratch. nailed it in basically every category",8.428571428571429
-Alex,Scottie's Pizza Parlor,vegan hawaii 505,10.0,10.0,10.0,10.0,8.0,8.0,,9.0,,9.0,9.25,,8.428571428571429
-Alex,Fino Bistro,"Vegan (kalamata olives, roasted garlic, pineapple)",10.0,9.0,9.0,10.0,10.0,9.0,,8.0,8.0,8.0,9,Incredible roasted red pepper base!,8.25
-Alex,Gracie's Apizza,vegan,9.0,9.0,9.0,9.0,9.0,9.0,,9.0,6.0,,8.625,"a lot of things are right about this pizza. the toppings are amazing, preserved eggplant, onions, great sauce. the crust was perfect it can't get better, but it can be equally good and different. the only thing that could have made it better is a little heat. some hot oil would have done the trick",8.142857142857142
-Alex,Dove Vivi,vegan roasted vegetable,9.0,10.0,9.0,8.0,10.0,10.0,8.0,8.0,,,9,crust is so unique and delicious. it is like a dessert pie crust. very rich. all the ingredients are incredibly fresh. they definitely live up to their story,8.142857142857142
-Alex,oven and shaker,tomato,9.0,10.0,9.0,7.0,8.0,8.0,,9.0,,,8.571428571,Incredible roasted red pepper base!,7.666666666666667
-Alex,the star,,9.0,10.0,9.0,7.0,8.0,8.0,,9.0,,,8.571428571,Incredible roasted red pepper base!,7.666666666666667
-Alex,boxcar pizza,,9.0,10.0,9.0,7.0,8.0,8.0,,9.0,,,8.571428571,Incredible roasted red pepper base!,7.666666666666667
-Alex,boxcar pizza,,9.0,10.0,9.0,7.0,8.0,8.0,,9.0,,,8.571428571,Incredible roasted red pepper base!,7.666666666666667
-Alex,Lovelysfiftyfifty,rainbow chard,8.0,9.0,10.0,9.0,8.0,10.0,,8.0,6.0,,8.5,,7.428571428571429
-Alex,East Glisan Pizza Lounge,vegan sausage,7.0,8.0,8.0,8.0,7.0,9.0,,9.0,8.0,,8,,7.428571428571429
-Alex,Sizzle Pie,steve caballero,9.0,8.0,8.0,8.0,9.0,8.0,,8.0,6.0,,8,,7.428571428571429
-Alex,Assembly Brewing,custom vegan,9.0,9.0,9.0,9.0,7.0,7.0,,8.0,,,8.285714286,,7.333333333333333
-Alex,Mississippi pizza,amaizeing,8.0,8.0,7.0,6.0,9.0,9.0,,9.0,8.0,8.0,8,"great vegan options. caramelized onion sauce was a pretty major letdown. I was quite excited, but it was basically non-existent. slicing sucked. long and skinny aslices no one wants that. would definitely go back want to try all the vegan options",7.25
-Alex,Baby Doll Pizza,#2 vegan (they forgot sun dried tomatoes 😑),8.0,7.0,8.0,8.0,7.0,9.0,,7.0,,,7.714285714,,7.0
-Alex,48 North Pizzeria,vegan supreme,7.0,7.0,7.0,7.0,8.0,8.0,8.0,8.0,,,7.5,,7.0
-Alex,Tastebud,vegan,8.0,8.0,10.0,8.0,6.0,10.0,9.0,5.0,10.0,,8.222222222,"on a different night would probably have been number 1 so far. they forgot my spicy cashew cream which was a big minus for them because that would have been a key ingredient. the rest of the toppings were good, but had too much salsa flavor. their crust was perfect as usual",6.75
-Alex,Life of Pie,vegan cheese + veg,9.0,9.0,8.0,9.0,6.0,6.0,,8.0,,,7.857142857,everything was good. Nothing stood out. ,6.666666666666667
-Alex,Apizza Scholls,marinara,8.0,10.0,10.0,10.0,6.0,7.0,,6.0,9.0,,8.25,,6.571428571428571
-Alex,Ranch Pizza,Veggie (vegan),9.0,7.0,8.0,9.0,8.0,6.0,,9.0,,5.0,7.625,"really good. I think the pan style crust is not my thing, but this was still very good",6.285714285714286
-Alex,Handsome Pizza,marinara,8.0,7.0,8.0,8.5,6.0,6.0,10.0,7.0,5.0,5.0,7.05,"not the best for vegan options. very tangy, but not in a bad way. tangy in the crust and the sauce. really positive message with living wage fee and I support their mission to provide a living wage to their workers. would eat here again, but might try different toppings",5.777777777777778
-Alex,Rudy's Gourmet Pizza,vegan ninja,7.0,7.0,5.0,5.0,8.0,9.0,,10.0,,,7.285714286,,5.666666666666667
-Alex,Pizza Jerk,vegan sausage,8.0,7.0,6.0,8.0,6.0,5.0,8.0,8.0,,5.0,6.777777778,"they gave me a free beer while I waited for my pizza so that was a great message. too much vegan cheese which made the crust soggy, otherwise decent flavor",5.625
+Vendor,final_score,Taste,Presentation,Crust,Sauce,Toppings,Creativity,Message,Availability,sides,leftovers,Notes
+Pizzeria Otto,9.142857142857142,10.0,10.0,10.0,10.0,10.0,9.0,9.0,9.0,,,the vegan cashew ricotta is the best I've ever had. the sauce is amazing. this pizza is incredible
+Pizza Doughnais (sourdough),8.5,10.0,8.0,10.0,10.0,9.0,9.0,8.0,9.0,,9.0,
+Red Sauce Pizza,8.428571428571429,10.0,8.0,9.0,9.0,10.0,8.0,9.0,9.0,,,"this pizza really hit the spot. a classic combo of pineapple, vegan pepperoni, and jalapeno. basically what I would put on a pizza if I was making it from scratch. nailed it in basically every category"
+Scottie's Pizza Parlor,8.428571428571429,10.0,10.0,10.0,10.0,8.0,8.0,,9.0,,9.0,
+Fino Bistro,8.25,10.0,9.0,9.0,10.0,10.0,9.0,,8.0,8.0,8.0,Incredible roasted red pepper base!
+Gracie's Apizza,8.142857142857142,9.0,9.0,9.0,9.0,9.0,9.0,,9.0,6.0,,"a lot of things are right about this pizza. the toppings are amazing, preserved eggplant, onions, great sauce. the crust was perfect it can't get better, but it can be equally good and different. the only thing that could have made it better is a little heat. some hot oil would have done the trick"
+Dove Vivi,8.142857142857142,9.0,10.0,9.0,8.0,10.0,10.0,8.0,8.0,,,crust is so unique and delicious. it is like a dessert pie crust. very rich. all the ingredients are incredibly fresh. they definitely live up to their story
+oven and shaker,7.666666666666667,9.0,10.0,9.0,7.0,8.0,8.0,,9.0,,,Incredible roasted red pepper base!
+the star,7.666666666666667,9.0,10.0,9.0,7.0,8.0,8.0,,9.0,,,Incredible roasted red pepper base!
+boxcar pizza,7.666666666666667,9.0,10.0,9.0,7.0,8.0,8.0,,9.0,,,Incredible roasted red pepper base!
+boxcar pizza,7.666666666666667,9.0,10.0,9.0,7.0,8.0,8.0,,9.0,,,Incredible roasted red pepper base!
+Lovelysfiftyfifty,7.428571428571429,8.0,9.0,10.0,9.0,8.0,10.0,,8.0,6.0,,
+East Glisan Pizza Lounge,7.428571428571429,7.0,8.0,8.0,8.0,7.0,9.0,,9.0,8.0,,
+Sizzle Pie,7.428571428571429,9.0,8.0,8.0,8.0,9.0,8.0,,8.0,6.0,,
+Assembly Brewing,7.333333333333333,9.0,9.0,9.0,9.0,7.0,7.0,,8.0,,,
+Mississippi pizza,7.25,8.0,8.0,7.0,6.0,9.0,9.0,,9.0,8.0,8.0,"great vegan options. caramelized onion sauce was a pretty major letdown. I was quite excited, but it was basically non-existent. slicing sucked. long and skinny aslices no one wants that. would definitely go back want to try all the vegan options"
+Baby Doll Pizza,7.0,8.0,7.0,8.0,8.0,7.0,9.0,,7.0,,,
+48 North Pizzeria,7.0,7.0,7.0,7.0,7.0,8.0,8.0,8.0,8.0,,,
+Tastebud,6.75,8.0,8.0,10.0,8.0,6.0,10.0,9.0,5.0,10.0,,"on a different night would probably have been number 1 so far. they forgot my spicy cashew cream which was a big minus for them because that would have been a key ingredient. the rest of the toppings were good, but had too much salsa flavor. their crust was perfect as usual"
+Life of Pie,6.666666666666667,9.0,9.0,8.0,9.0,6.0,6.0,,8.0,,,everything was good. Nothing stood out. 
+Apizza Scholls,6.571428571428571,8.0,10.0,10.0,10.0,6.0,7.0,,6.0,9.0,,
+Ranch Pizza,6.285714285714286,9.0,7.0,8.0,9.0,8.0,6.0,,9.0,,5.0,"really good. I think the pan style crust is not my thing, but this was still very good"
+Handsome Pizza,5.777777777777778,8.0,7.0,8.0,8.5,6.0,6.0,10.0,7.0,5.0,5.0,"not the best for vegan options. very tangy, but not in a bad way. tangy in the crust and the sauce. really positive message with living wage fee and I support their mission to provide a living wage to their workers. would eat here again, but might try different toppings"
+Rudy's Gourmet Pizza,5.666666666666667,7.0,7.0,5.0,5.0,8.0,9.0,,10.0,,,
+Pizza Jerk,5.625,8.0,7.0,6.0,8.0,6.0,5.0,8.0,8.0,,5.0,"they gave me a free beer while I waited for my pizza so that was a great message. too much vegan cheese which made the crust soggy, otherwise decent flavor"

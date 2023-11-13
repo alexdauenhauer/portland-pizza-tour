@@ -1,24 +1,24 @@
-Name,Vendor,Variety,Taste,Presentation,Crust,Sauce,Toppings,Creativity,Message,Availability,sides,leftovers,total,Notes,final_score
-Alice,Pizzeria Otto,"Buffalo Moz w/pepperoni, garlic and wild mushrooms",10.0,10.0,8.0,10.0,10.0,9.0,9.0,10.0,,,9.5,The inner crust is the shining star. I have never had a piece of pizza that was this then yet strong and mighty. it is absolutely delicious. The quality of ingredients is top shelf.,8.857142857142858
-Alice,Dove Vivi,med olive,10.0,9.0,10.0,8.0,10.0,9.0,,10.0,,,9.428571429,very very interesting. only complaint is that it was a different tye of crust,8.666666666666666
-Alice,Ranch Pizza,special / pepperoni,9.0,9.0,10.0,8.0,8.0,8.0,,9.0,,9.0,8.75,The pan style crust blew me away. reminded me a little bit of the deep dish I had in Chicago.,8.142857142857142
-Alice,Lovelysfiftyfifty,chanterelle,10.0,9.0,9.0,9.0,9.0,10.0,,8.0,7.0,,8.875,"small selection, however they did have everything I wanted. I was questioning whether or not it was going to be good with the roasted onions - yet it was incredible.",8.142857142857142
-Alice,Tastebud,pesto,9.0,7.0,8.0,9.0,8.0,9.0,9.0,8.0,9.0,9.0,8.5,"I normally really enjoy this place, but today it was only meh. I ordered the pesto which came with pesto sauce, cherry tomatoes, and several cheeses... ultimately it tasted like an upscale cheese pizza.",8.0
-Alice,Life of Pie,salami and honey,8.0,8.0,8.0,8.0,9.0,9.0,,9.0,,,8.333333333,,8.0
-Alice,Assembly Brewing,popeye,8.0,8.0,9.0,8.0,8.0,8.0,,9.0,,,8.285714286,,8.0
-Alice,oven and shaker,mushroom pizza w/ pepperoni,8.0,9.0,10.0,8.0,9.0,8.0,,10.0,,,8.857142857,,8.0
-Alice,the star,,8.0,9.0,10.0,8.0,9.0,8.0,,10.0,,,8.857142857,,8.0
-Alice,boxcar pizza,,8.0,9.0,10.0,8.0,9.0,8.0,,10.0,,,8.857142857,,8.0
-Alice,boxcar pizza,,8.0,9.0,10.0,8.0,9.0,8.0,,10.0,,,8.857142857,,8.0
-Alice,Gracie's Apizza,ricotta,9.0,8.0,8.0,9.0,9.0,8.0,,8.0,7.0,8.0,8.222222222,"Best yet - availability was marked down lower than I would have given it because the pizza I wanted online was actually not available and out of date. The salad was lacking in variety of flavors, but the produce was high quality and just not chopped very well. But it was different. I didn't give a very high creativity mark because there was nothing that stuck out to me.",7.75
-Alice,Apizza Scholls,apizza amore,9.0,8.0,10.0,10.0,9.0,7.0,,7.0,9.0,,8.625,,7.571428571428571
-Alice,Pizza Jerk,clam,9.0,7.0,8.0,9.0,8.0,7.0,,9.0,,,8.142857143,first time I've had clam pizza. it was surprisingly delicious.,7.333333333333333
-Alice,Fino Bistro,goat,9.0,9.0,9.0,7.0,8.0,7.0,,9.0,,7.0,8.125,"great, but followed by not so great.",7.142857142857143
-Alice,East Glisan Pizza Lounge,puttanesca,7.0,7.0,7.0,7.0,7.0,7.0,,8.0,8.0,,7.25,forgot to rate,7.0
-Alice,48 North Pizzeria,,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,,,7,forgot to rate,7.0
-Alice,Mississippi pizza,spicoli,7.0,8.0,8.0,6.0,8.0,7.0,,9.0,9.0,7.0,7.666666667,the salad was the highlight of this meal. it had fresh ingredients including a Chev type goat cheese and incredible dressing. I also enjoyed the nuts. The pizza was disappointing. because the pineapples made it to sweet. it made the sauce taste like barbecue sauce which was just not my flavor. it might be good for someone else. there were no other items on the menu that looked very exciting to me.,6.875
-Alice,Red Sauce Pizza,mushrooms and cheese,7.0,8.0,7.0,8.0,7.0,6.0,9.0,8.0,,,7.5,very forgettable,6.714285714285714
-Alice,Baby Doll Pizza,white pizza w/ mushrooms,7.0,8.0,9.0,7.0,8.0,9.0,,9.0,,5.0,7.75,,6.571428571428571
-Alice,Pizza Doughnais (sourdough),clam,6.0,7.0,9.0,6.0,5.0,7.0,7.0,7.0,,,6.75,,5.857142857142857
-Alice,Handsome Pizza,sergio olmos,7.0,7.0,8.0,,8.0,8.0,9.0,7.0,5.0,3.0,6.89,no comment I guess,5.5
-Alice,Rudy's Gourmet Pizza,shrimp bbq,6.0,5.0,4.0,4.0,8.0,8.0,,10.0,,,6.428571429,average af except for the topping combos,4.333333333333333
+Vendor,final_score,Taste,Presentation,Crust,Sauce,Toppings,Creativity,Message,Availability,sides,leftovers,Notes
+Pizzeria Otto,8.857142857142858,10.0,10.0,8.0,10.0,10.0,9.0,9.0,10.0,,,The inner crust is the shining star. I have never had a piece of pizza that was this then yet strong and mighty. it is absolutely delicious. The quality of ingredients is top shelf.
+Dove Vivi,8.666666666666666,10.0,9.0,10.0,8.0,10.0,9.0,,10.0,,,very very interesting. only complaint is that it was a different tye of crust
+Ranch Pizza,8.142857142857142,9.0,9.0,10.0,8.0,8.0,8.0,,9.0,,9.0,The pan style crust blew me away. reminded me a little bit of the deep dish I had in Chicago.
+Lovelysfiftyfifty,8.142857142857142,10.0,9.0,9.0,9.0,9.0,10.0,,8.0,7.0,,"small selection, however they did have everything I wanted. I was questioning whether or not it was going to be good with the roasted onions - yet it was incredible."
+Tastebud,8.0,9.0,7.0,8.0,9.0,8.0,9.0,9.0,8.0,9.0,9.0,"I normally really enjoy this place, but today it was only meh. I ordered the pesto which came with pesto sauce, cherry tomatoes, and several cheeses... ultimately it tasted like an upscale cheese pizza."
+Life of Pie,8.0,8.0,8.0,8.0,8.0,9.0,9.0,,9.0,,,
+Assembly Brewing,8.0,8.0,8.0,9.0,8.0,8.0,8.0,,9.0,,,
+oven and shaker,8.0,8.0,9.0,10.0,8.0,9.0,8.0,,10.0,,,
+the star,8.0,8.0,9.0,10.0,8.0,9.0,8.0,,10.0,,,
+boxcar pizza,8.0,8.0,9.0,10.0,8.0,9.0,8.0,,10.0,,,
+boxcar pizza,8.0,8.0,9.0,10.0,8.0,9.0,8.0,,10.0,,,
+Gracie's Apizza,7.75,9.0,8.0,8.0,9.0,9.0,8.0,,8.0,7.0,8.0,"Best yet - availability was marked down lower than I would have given it because the pizza I wanted online was actually not available and out of date. The salad was lacking in variety of flavors, but the produce was high quality and just not chopped very well. But it was different. I didn't give a very high creativity mark because there was nothing that stuck out to me."
+Apizza Scholls,7.571428571428571,9.0,8.0,10.0,10.0,9.0,7.0,,7.0,9.0,,
+Pizza Jerk,7.333333333333333,9.0,7.0,8.0,9.0,8.0,7.0,,9.0,,,first time I've had clam pizza. it was surprisingly delicious.
+Fino Bistro,7.142857142857143,9.0,9.0,9.0,7.0,8.0,7.0,,9.0,,7.0,"great, but followed by not so great."
+East Glisan Pizza Lounge,7.0,7.0,7.0,7.0,7.0,7.0,7.0,,8.0,8.0,,forgot to rate
+48 North Pizzeria,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,,,forgot to rate
+Mississippi pizza,6.875,7.0,8.0,8.0,6.0,8.0,7.0,,9.0,9.0,7.0,the salad was the highlight of this meal. it had fresh ingredients including a Chev type goat cheese and incredible dressing. I also enjoyed the nuts. The pizza was disappointing. because the pineapples made it to sweet. it made the sauce taste like barbecue sauce which was just not my flavor. it might be good for someone else. there were no other items on the menu that looked very exciting to me.
+Red Sauce Pizza,6.714285714285714,7.0,8.0,7.0,8.0,7.0,6.0,9.0,8.0,,,very forgettable
+Baby Doll Pizza,6.571428571428571,7.0,8.0,9.0,7.0,8.0,9.0,,9.0,,5.0,
+Pizza Doughnais (sourdough),5.857142857142857,6.0,7.0,9.0,6.0,5.0,7.0,7.0,7.0,,,
+Handsome Pizza,5.5,7.0,7.0,8.0,,8.0,8.0,9.0,7.0,5.0,3.0,no comment I guess
+Rudy's Gourmet Pizza,4.333333333333333,6.0,5.0,4.0,4.0,8.0,8.0,,10.0,,,average af except for the topping combos
